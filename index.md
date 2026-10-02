@@ -35,9 +35,9 @@ samwiki: true
     <article class="sw-card">
       <div class="sw-card-top">
         <h3 class="sw-name"><a href="https://github.com/sdcastillo/webinars/tree/master/01-Grammar-and-Graphics-of-Data-Science">Grammar and reporting</a></h3>
-        <span class="sw-lang">dplyr · rmarkdown</span>
+        <span class="sw-lang">R</span>
       </div>
-      <p class="sw-desc">dplyr, tidyr, and ggvis, then knitr, R Markdown, notebooks, flexdashboard, bookdown, blogdown, and the tidyverse visualization session.</p>
+      <p class="sw-desc">dplyr, tidyr, ggvis, R Markdown, notebooks, flexdashboard, bookdown, and blogdown.</p>
       <p class="sw-meta">Folders 01–02, 12–13, 22, 24–25, 37–39, 41, 46</p>
       <div class="sw-actions">
         <a class="sw-btn sw-btn-source" href="https://github.com/sdcastillo/webinars/tree/master/01-Grammar-and-Graphics-of-Data-Science">Source</a>
@@ -46,9 +46,9 @@ samwiki: true
     <article class="sw-card">
       <div class="sw-card-top">
         <h3 class="sw-name"><a href="https://github.com/sdcastillo/webinars/tree/master/08-How-to-start-with-Shiny-Part-1">Shiny</a></h3>
-        <span class="sw-lang">shiny</span>
+        <span class="sw-lang">Shiny</span>
       </div>
-      <p class="sw-desc">Three “how to start” sessions, then modules, gadgets, bookmarking, interactive graphics, shinydashboard, and shinytest.</p>
+      <p class="sw-desc">How to start, then modules, gadgets, bookmarking, graphics, dashboards, and shinytest.</p>
       <p class="sw-meta">Folders 03, 07–10, 16, 19, 29, 33, 47–48</p>
       <div class="sw-actions">
         <a class="sw-btn sw-btn-source" href="https://github.com/sdcastillo/webinars/tree/master/08-How-to-start-with-Shiny-Part-1">Source</a>
@@ -57,9 +57,9 @@ samwiki: true
     <article class="sw-card">
       <div class="sw-card-top">
         <h3 class="sw-name"><a href="https://github.com/sdcastillo/webinars/tree/master/23-Importing-Data-into-R">Getting data in</a></h3>
-        <span class="sw-lang">import · httr</span>
+        <span class="sw-lang">Import</span>
       </div>
-      <p class="sw-desc">CSV, Excel, JSON, SPSS, Stata, and SQLite; readxl; web APIs; scraping; a hotel-site case study; and professional ODBC drivers.</p>
+      <p class="sw-desc">Spreadsheets, JSON, SQLite, readxl, web APIs, scraping, and ODBC drivers.</p>
       <p class="sw-meta">Folders 11, 23, 30–32, 36, 40, 50–51</p>
       <div class="sw-actions">
         <a class="sw-btn sw-btn-source" href="https://github.com/sdcastillo/webinars/tree/master/23-Importing-Data-into-R">Source</a>
@@ -68,9 +68,9 @@ samwiki: true
     <article class="sw-card">
       <div class="sw-card-top">
         <h3 class="sw-name"><a href="https://github.com/sdcastillo/webinars/tree/master/30-sparklyr-rmarkdown">sparklyr</a></h3>
-        <span class="sw-lang">spark</span>
+        <span class="sw-lang">Spark</span>
       </div>
-      <p class="sw-desc">Local Spark connections, dplyr verbs on Spark, and the cluster notebooks for extension, advanced features, and deployment modes.</p>
+      <p class="sw-desc">Local Spark connections, dplyr on Spark, and the cluster notebooks through deployment.</p>
       <p class="sw-meta">Folders 14, 30-sparklyr-rmarkdown, 42–45</p>
       <div class="sw-actions">
         <a class="sw-btn sw-btn-source" href="https://github.com/sdcastillo/webinars/tree/master/30-sparklyr-rmarkdown">Source</a>
@@ -79,9 +79,9 @@ samwiki: true
     <article class="sw-card">
       <div class="sw-card-top">
         <h3 class="sw-name"><a href="https://github.com/sdcastillo/webinars/tree/master/15-RStudio-essentials">IDE and servers</a></h3>
-        <span class="sw-lang">rstudio</span>
+        <span class="sw-lang">IDE</span>
       </div>
-      <p class="sw-desc">Projects, git, debugging, packages, packrat, addins, profiling, covr, RcppParallel, RStudio Server Pro, Shiny Server Pro, and Connect.</p>
+      <p class="sw-desc">Projects, git, packrat, addins, profiling, RStudio Server, Shiny Server, and Connect.</p>
       <p class="sw-meta">Folders 04, 06, 15, 17–18, 20–21, 26–28, 34–35</p>
       <div class="sw-actions">
         <a class="sw-btn sw-btn-source" href="https://github.com/sdcastillo/webinars/tree/master/15-RStudio-essentials">Source</a>

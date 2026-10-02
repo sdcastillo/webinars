@@ -1,0 +1,35 @@
+# SamWiki theme contract for this project Pages site.
+# Theme setup follows GitHub's Jekyll theme guide:
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+#
+# The hub site (sdcastillo.github.io) uses theme: jekyll-theme-cayman.
+# Project repositories use the same skin through the supported remote theme.
+# remote_theme does not set site.theme, so assets/css/style.scss imports
+# "jekyll-theme-cayman" directly.
+
+title: RStudio Webinars
+description: Code, slides, and notebooks from the RStudio webinar archive.
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+show_downloads: false
+markdown: kramdown
+
+# The numbered session folders are the archive (slide decks, Keynote bundles,
+# Shiny apps, and scraped HTML). They stay in the Git repository and are
+# linked from the index. Excluding them keeps the Pages build to this index
+# instead of copying the archive into the published site.
+exclude:
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - node_modules
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - Gemfile
+  - Gemfile.lock
+  - data-html
+  - "[0-9][0-9]*"
